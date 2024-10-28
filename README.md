@@ -9,7 +9,7 @@ This repository is related to module 4 in Marco Behler's course "The confident S
 
 ## Key takeaways
 
-@Controller, without additional annotations, class serves html.    
+@Controller class, without additional annotations, serves html.    
 For Thymeleaf and Spring to work together register following three @Beans:  
 - ThymeLeafViewResolver; Tells Spring it should try to find Thymeleaf templates  
 - SpringTemplateEngine; Thymeleaf-specific configuration bean, hooks up Spring MVC and Thymeleaf  
