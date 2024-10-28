@@ -23,6 +23,6 @@ Thymeleaf tags have lots of code-like functionalities.
 Endpoints for local use:
 - GET "/" optionally "/?username=jeff"
 - GET "/login"
-- POST "login", korjaa kunnolliseksi rajapintadokumentaatioksi 
+- POST "login"
 
   
